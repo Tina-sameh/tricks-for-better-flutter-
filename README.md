@@ -21,3 +21,4 @@ Logic Separation: Moving heavy calculations out of the build method and into ini
 Local State Management: Using setState only within the smallest possible widget scope (e.g., a standalone Button widget).
 
 Object Identity (Keys): Implementing ValueKey in lists to help the Element Tree maintain the correct state of dynamic items.
+#### https://docs.flutter.dev/resources/architectural-overview
